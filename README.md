@@ -30,7 +30,7 @@ Edit books with a single button that changes from "Add Book" to "Update Book"
 Delete books permanently from your browser
 
 
-🌐 Deployment:
+🌐 Deployment:https://andreipor.github.io/books-crud-app/
 
 ⚠ Notes
 
