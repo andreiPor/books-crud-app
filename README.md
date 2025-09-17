@@ -29,21 +29,6 @@ Edit books with a single button that changes from "Add Book" to "Update Book"
 
 Delete books permanently from your browser
 
-Cards appear with fade-in animation and hover lift effect
-
-Uniform card sizes regardless of image size
-
-Titles and descriptions use emoji for fun visualization
-
-📂 Folder Structure
-books-crud-app/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
 
 🌐 Deployment:
 
